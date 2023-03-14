@@ -9,7 +9,7 @@ Repository ini melanjutkan tugas kelompok pertemuan sebelumnya, disini saya mena
 - Penambahan di (routes/web.php) itu berisi statement if dan foreach.
 
 1. Home Page Baru
-   <img src="public/images/readme-images/home-page-new.png" alt="home page">
+   <img src="public/images/readme-images/Home-page-new.png" alt="home page">
 
 2. Artikel yang telah dibuat Ariel Sefrian
    <img src="public/images/readme-images/artikel-ariel.png" alt="ariel sefrian">
